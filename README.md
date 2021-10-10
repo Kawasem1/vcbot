@@ -1,2 +1,2 @@
 # vcbot
-DinscordのVC管理BOTです。
+DinscordのVC管理BOTです。あまりきれいにかけてないです。

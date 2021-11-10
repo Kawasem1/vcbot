@@ -1,2 +1,3 @@
 # vcbot
-DinscordのVC管理BOTです。あまりきれいにかけてないです。
+DinscordのVC管理BOTです。Replitで稼働させてます。
+あまりきれいにかけてないです。
